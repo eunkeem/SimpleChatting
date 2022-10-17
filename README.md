@@ -11,8 +11,7 @@ Development Environment
 |OS|Windows 10 Home|
 |Language|Java 17.0.4.0|
 |Editor|Eclipse 2022-06 (4.24.0)|
-|Github|https://github.com/eunkeem/bookshop_repository|![connecting](https://user-images.githubusercontent.com/115531855/196069874-1be2a819-21ce-48e2-aa68-2531a999a54e.jpg)
-
+|Github|https://github.com/eunkeem/simpleChatting_repository|
 
 
 Show the function
